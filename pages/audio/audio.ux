@@ -12,7 +12,7 @@
 </template>
 
 <script>
-import audio from '@system.audio';
+import audio from '@system.audio'
 import prompt from '@system.prompt'
 
 export default {
@@ -91,3 +91,4 @@ export default {
   selected-color: #0faeff;
 }
 </style>
+
